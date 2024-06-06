@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X4dsBi7/3rbQrWDr4NyghtsjiKVuIhQr8DsLUQsit4YtyW1QH6Nt3PQFidl/xwfTUFXzfBQAxozgwJxiWXd92A==",
+  "dgSpecHash": "BzFp166yvx8FiJBbo603Np6NUrQSskBP+roP8YhDfOpBQ2nkHynuKSp1I7SlyA91TXhXHvSXgwmbFJZiaSjDmg==",
   "success": true,
-  "projectFilePath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Contracts\\Contracts.csproj",
+  "projectFilePath": "D:\\Git\\CompanyEmployees_dotNet8\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

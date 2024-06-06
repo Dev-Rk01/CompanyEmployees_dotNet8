@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6P4MjakIWi9Ekywy/rUuVTCiTFu5dVxlloSyu0apomCstQFKL8a34yivC8VAjvhmBRsPGIeV8K86+uZdNEbwpg==",
+  "dgSpecHash": "wLIViOgUQoS/fCVGoTGTTwLE6U0Q+xq+CKfWTpEB2RjPuvExdopLECYbmKal+EPkMW1FvDGQNbcfn4NJ7bxJRQ==",
   "success": true,
-  "projectFilePath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

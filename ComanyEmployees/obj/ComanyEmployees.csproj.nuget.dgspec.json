@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\ComanyEmployees\\ComanyEmployees.csproj": {}
+    "D:\\Git\\CompanyEmployees_dotNet8\\ComanyEmployees\\ComanyEmployees.csproj": {}
   },
   "projects": {
-    "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\ComanyEmployees\\ComanyEmployees.csproj": {
+    "D:\\Git\\CompanyEmployees_dotNet8\\ComanyEmployees\\ComanyEmployees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\ComanyEmployees\\ComanyEmployees.csproj",
+        "projectUniqueName": "D:\\Git\\CompanyEmployees_dotNet8\\ComanyEmployees\\ComanyEmployees.csproj",
         "projectName": "ComanyEmployees",
-        "projectPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\ComanyEmployees\\ComanyEmployees.csproj",
-        "packagesPath": "C:\\Users\\IotasolLaptop\\.nuget\\packages\\",
-        "outputPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\ComanyEmployees\\obj\\",
+        "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\ComanyEmployees\\ComanyEmployees.csproj",
+        "packagesPath": "C:\\Users\\devan\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\CompanyEmployees_dotNet8\\ComanyEmployees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IotasolLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\LoggerService\\LoggerService.csproj"
+              "D:\\Git\\CompanyEmployees_dotNet8\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\LoggerService\\LoggerService.csproj"
               },
-              "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Repository\\Repository.csproj": {
-                "projectPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Repository\\Repository.csproj"
+              "D:\\Git\\CompanyEmployees_dotNet8\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Repository\\Repository.csproj"
               }
             }
           }
@@ -41,6 +41,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -71,21 +76,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Contracts\\Contracts.csproj": {
+    "D:\\Git\\CompanyEmployees_dotNet8\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "D:\\Git\\CompanyEmployees_dotNet8\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\IotasolLaptop\\.nuget\\packages\\",
-        "outputPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Contracts\\obj\\",
+        "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\devan\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\CompanyEmployees_dotNet8\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IotasolLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,6 +110,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -126,21 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Entities\\Entities.csproj": {
+    "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\IotasolLaptop\\.nuget\\packages\\",
-        "outputPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Entities\\obj\\",
+        "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\devan\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IotasolLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,6 +170,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -181,21 +196,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\LoggerService\\LoggerService.csproj": {
+    "D:\\Git\\CompanyEmployees_dotNet8\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "D:\\Git\\CompanyEmployees_dotNet8\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\LoggerService\\LoggerService.csproj",
-        "packagesPath": "C:\\Users\\IotasolLaptop\\.nuget\\packages\\",
-        "outputPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\LoggerService\\obj\\",
+        "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\devan\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\CompanyEmployees_dotNet8\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IotasolLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -209,8 +224,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Contracts\\Contracts.csproj": {
-                "projectPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Contracts\\Contracts.csproj"
+              "D:\\Git\\CompanyEmployees_dotNet8\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -219,6 +234,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -246,21 +266,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Repository\\Repository.csproj": {
+    "D:\\Git\\CompanyEmployees_dotNet8\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\Git\\CompanyEmployees_dotNet8\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\IotasolLaptop\\.nuget\\packages\\",
-        "outputPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Repository\\obj\\",
+        "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\devan\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\CompanyEmployees_dotNet8\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IotasolLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -274,8 +294,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "F:\\OneDrive\\FullStackProjectCodeAsp.Net_Angular\\ASP.NET8_realCodes\\ComanyEmployees\\Entities\\Entities.csproj"
+              "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj"
               }
             }
           }
@@ -284,6 +304,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -311,7 +336,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

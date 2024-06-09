@@ -14,7 +14,6 @@ builder.Services.ConfigureLoggerServices();
 
 builder.Services.AddControllers();
 
-
 var app = builder.Build();
 
 if(app.Environment.IsDevelopment())

@@ -4,3 +4,11 @@
 /.vs
 /.vs/ComanyEmployees
 /.vs/ComanyEmployees/FileContentIndex
+/.vs
+/ComanyEmployees/bin
+/ComanyEmployees/obj
+/Repository/obj
+/Repository/obj
+/Contracts/bin
+/Contracts/obj
+/Entities/obj

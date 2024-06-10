@@ -1,7 +1,7 @@
 ﻿using Contracts;
 using LoggerService;
 
-namespace ComanyEmployees.Extensions
+namespace CompanyEmployees.Extensions
 {
     public static class ServiceExtensions
     {

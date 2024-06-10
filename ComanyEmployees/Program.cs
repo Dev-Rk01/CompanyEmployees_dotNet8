@@ -1,4 +1,4 @@
-using ComanyEmployees.Extensions;
+using CompanyEmployees.Extensions;
 using Contracts;
 using LoggerService;
 using Microsoft.AspNetCore.HttpOverrides;

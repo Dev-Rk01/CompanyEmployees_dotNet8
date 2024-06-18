@@ -27,7 +27,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

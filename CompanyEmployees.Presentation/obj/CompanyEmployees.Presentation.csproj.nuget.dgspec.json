@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj": {
+    "D:\\Git\\CompanyEmployees_dotNet8\\Service.Contracts\\Service.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj",
-        "projectName": "Entities",
-        "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Git\\CompanyEmployees_dotNet8\\Service.Contracts\\Service.Contracts.csproj",
+        "projectName": "Service.Contracts",
+        "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Service.Contracts\\Service.Contracts.csproj",
         "packagesPath": "C:\\Users\\devan\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\obj\\",
+        "outputPath": "D:\\Git\\CompanyEmployees_dotNet8\\Service.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,7 +94,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Git\\CompanyEmployees_dotNet8\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Shared\\Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -131,14 +135,14 @@
         }
       }
     },
-    "D:\\Git\\CompanyEmployees_dotNet8\\Service.Contracts\\Service.Contracts.csproj": {
+    "D:\\Git\\CompanyEmployees_dotNet8\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\CompanyEmployees_dotNet8\\Service.Contracts\\Service.Contracts.csproj",
-        "projectName": "Service.Contracts",
-        "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Service.Contracts\\Service.Contracts.csproj",
+        "projectUniqueName": "D:\\Git\\CompanyEmployees_dotNet8\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\devan\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\CompanyEmployees_dotNet8\\Service.Contracts\\obj\\",
+        "outputPath": "D:\\Git\\CompanyEmployees_dotNet8\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,11 +158,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

@@ -152,6 +152,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Entities\\Entities.csproj"
+              },
               "D:\\Git\\CompanyEmployees_dotNet8\\Shared\\Shared.csproj": {
                 "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Shared\\Shared.csproj"
               }

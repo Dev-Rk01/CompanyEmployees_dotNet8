@@ -10,3 +10,15 @@ D:\Git\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\Entities.dll
 D:\Git\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\refint\Entities.dll
 D:\Git\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\Entities.pdb
 D:\Git\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\ref\Entities.dll
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\bin\Debug\net8.0\Entities.deps.json
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\bin\Debug\net8.0\Entities.dll
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\bin\Debug\net8.0\Entities.pdb
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\Entities.dll
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\refint\Entities.dll
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\Entities.pdb
+F:\GitPersonal\CompanyEmployees_dotNet8\Entities\obj\Debug\net8.0\ref\Entities.dll

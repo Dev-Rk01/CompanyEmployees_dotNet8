@@ -64,3 +64,5 @@ D:\Git\CompanyEmployees_dotNet8\LoggerService\obj\Debug\net8.0\LoggerService.dll
 D:\Git\CompanyEmployees_dotNet8\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
 D:\Git\CompanyEmployees_dotNet8\LoggerService\obj\Debug\net8.0\LoggerService.pdb
 D:\Git\CompanyEmployees_dotNet8\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll
+F:\GitPersonal\CompanyEmployees_dotNet8\LoggerService\bin\Debug\net8.0\Repository.dll
+F:\GitPersonal\CompanyEmployees_dotNet8\LoggerService\bin\Debug\net8.0\Repository.pdb

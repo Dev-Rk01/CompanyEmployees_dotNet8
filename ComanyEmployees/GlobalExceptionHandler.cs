@@ -15,11 +15,11 @@ namespace CompanyEmployees
         }
         public async ValueTask<bool> TryHandleAsync(HttpContext httpContext, Exception exception, CancellationToken cancellationToken)
         {
-           httpContext.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
-           httpContext.Response.ContentType = "application/json";
+            httpContext.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+            httpContext.Response.ContentType = "application/json";
 
-           var contextFeature = httpContext.Features.Get<IExceptionHandlerPathFeature>();
-           if(contextFeature != null)
+            var contextFeature = httpContext.Features.Get<IExceptionHandlerPathFeature>();
+            if (contextFeature != null)
             {
                 httpContext.Response.StatusCode = contextFeature.Error switch
                 {
@@ -34,8 +34,8 @@ namespace CompanyEmployees
                     Message = contextFeature.Error.Message
                 }.ToString());
             }
-            
-           return true;
+
+            return true;
         }
     }
 }

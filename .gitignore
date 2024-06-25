@@ -17,3 +17,5 @@
 *.v2
 *.cache
 *.cache
+/.vs
+.vs/ComanyEmployees/v17/.suo

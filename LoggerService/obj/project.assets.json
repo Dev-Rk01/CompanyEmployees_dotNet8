@@ -747,19 +747,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\devan\\.nuget\\packages\\": {}
+    "C:\\Users\\IotasolLaptop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\CompanyEmployees_dotNet8\\LoggerService\\LoggerService.csproj",
+      "projectUniqueName": "F:\\GitPersonal\\CompanyEmployees_dotNet8\\LoggerService\\LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\LoggerService\\LoggerService.csproj",
-      "packagesPath": "C:\\Users\\devan\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\CompanyEmployees_dotNet8\\LoggerService\\obj\\",
+      "projectPath": "F:\\GitPersonal\\CompanyEmployees_dotNet8\\LoggerService\\LoggerService.csproj",
+      "packagesPath": "C:\\Users\\IotasolLaptop\\.nuget\\packages\\",
+      "outputPath": "F:\\GitPersonal\\CompanyEmployees_dotNet8\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\devan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IotasolLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -773,11 +773,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Git\\CompanyEmployees_dotNet8\\Contracts\\Contracts.csproj": {
-              "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Contracts\\Contracts.csproj"
+            "F:\\GitPersonal\\CompanyEmployees_dotNet8\\Contracts\\Contracts.csproj": {
+              "projectPath": "F:\\GitPersonal\\CompanyEmployees_dotNet8\\Contracts\\Contracts.csproj"
             },
-            "D:\\Git\\CompanyEmployees_dotNet8\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\Git\\CompanyEmployees_dotNet8\\Repository\\Repository.csproj"
+            "F:\\GitPersonal\\CompanyEmployees_dotNet8\\Repository\\Repository.csproj": {
+              "projectPath": "F:\\GitPersonal\\CompanyEmployees_dotNet8\\Repository\\Repository.csproj"
             }
           }
         }
@@ -786,11 +786,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -818,7 +813,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

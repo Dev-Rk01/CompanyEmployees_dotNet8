@@ -11,5 +11,6 @@ namespace Service.Contracts
     {
         IEnumerable<CompanyDto> GetAllCompanies(bool trackChanges);
         CompanyDto GetCompany(Guid CompanyId, bool trackChanges);
+        CompanyDto CreateCompany(CompanyForCreationDto company);
     }
 }
